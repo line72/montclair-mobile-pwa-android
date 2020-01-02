@@ -17,7 +17,7 @@
        under the License.
  */
 
-package net.line72.montclair;
+package com.gotransitapp.mobile;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
